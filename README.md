@@ -451,4 +451,4 @@ This repository contains:
 ## 👤 Author
 
 **Harshit Singh**
-B.Tech Computer Science Engineering
+B.Tech Information Technology
