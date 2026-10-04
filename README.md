@@ -427,7 +427,7 @@ This repository contains:
 - Supporting project configuration
 - README documentation
 
-### 🎥 Loom 1 — Code Walkthrough
+### 🎥 Loom 1 — Code Walkthrough https://www.loom.com/share/0df96d2e2f1846c5b4060703ac024c09
 
 1. Test folder and file structure
 2. API automation approach
