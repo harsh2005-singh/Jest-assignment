@@ -438,7 +438,7 @@ This repository contains:
 7. Important assertions
 8. Design decisions and trade-offs
 
-### 🎥 Loom 2 — Test Execution
+### 🎥 Loom 2 — Test Execution  https://www.loom.com/share/9ca67aa684974954b1ccde5eb0083bf3
 
 1. Application/test environment setup
 2. Running the Jest test suite
